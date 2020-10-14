@@ -37,3 +37,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://refactoring.guru/design-patterns/abstract-factory>
 >
 > La référence à lire et à appliquer (LU)
+
+## TDD
+
+> <http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html?m=1>
