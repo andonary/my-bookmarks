@@ -48,3 +48,6 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://www.stevefenton.co.uk/2013/05/my-unit-testing-epiphany>
 
+> <https://www.linkedin.com/pulse/tdd-la-méthode-qui-promet-des-logiciels-de-meilleur-lenselle/>
+
+> <https://medium.com/spotlight-on-javascript/real-world-node-js-tdd-example-4f877a46e1f1>
