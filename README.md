@@ -31,3 +31,9 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > Intro + exemples (LU mais à relire)
 
 > <https://udidahan.com/2009/12/09/clarified-cqrs/>
+
+## Design patterns
+
+> <https://refactoring.guru/design-patterns/abstract-factory>
+>
+> La référence à lire et à appliquer (LU)
