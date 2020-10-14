@@ -4,6 +4,16 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 ## Clean architecture
 
+### SOLID
+
+> <https://medium.com/@mari_azevedo/s-o-l-i-d-principles-what-are-they-and-why-projects-should-use-them-50b85e4aa8b6>
+>
+> Bon rappels avec exemples (LU)
+
+> <https://www.youtube.com/watch?v=xSggyivQT-Q>
+>
+> Conférence qui m'a encouragé à creuser le sujet (VU)
+
 ### Ports & Adapters Architecture
 
 > <https://jmgarridopaz.github.io/content/hexagonalarchitecture.html>
