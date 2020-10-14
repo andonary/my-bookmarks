@@ -14,7 +14,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Bon introduction (LU)
 
-## CQS + CQRS
+## CQS & CQRS
 
 > <https://www.dotnetcurry.com/patterns-practices/1461/command-query-separation-cqs>
 >
