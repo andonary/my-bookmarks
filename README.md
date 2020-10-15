@@ -38,6 +38,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > La référence à lire et à appliquer (LU)
 
+> <https://blog.engineering.publicissapient.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/>
+>
+> Récapitulatif des builder pattern
+
 ## TDD
 
 > <http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html?m=1>
