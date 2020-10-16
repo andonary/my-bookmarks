@@ -61,3 +61,6 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/>
 >
 > Introduction des termes, bon point d'entré (LU)
+
+> <https://udidahan.com/2009/06/29/dont-create-aggregate-roots/>
+
