@@ -56,6 +56,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://medium.com/spotlight-on-javascript/real-world-node-js-tdd-example-4f877a46e1f1>
 
+> <https://www.youtube.com/watch?v=XHnuMjah6ps>
+>
+> Outside In part 1
+
 ## DDD
 
 > <https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/>
