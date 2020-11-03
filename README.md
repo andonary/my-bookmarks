@@ -60,6 +60,12 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Outside In part 1
 
+## Tests Unitaires
+
+> <http://agileinaflash.blogspot.com/2009/02/first.html>
+>
+> Un test doit être FIRST
+
 ## DDD
 
 > <https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/>
