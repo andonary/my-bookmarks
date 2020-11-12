@@ -78,6 +78,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Repository pattern
 
+> <https://culttt.com/2014/09/29/creating-domain-services/>
+>
+> Domain services
+
 ## multi / divers
 
 > <https://www.cosmicpython.com/book/preface.html>
