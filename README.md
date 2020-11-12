@@ -74,3 +74,8 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://udidahan.com/2009/06/29/dont-create-aggregate-roots/>
 
+## multi / divers
+
+> <https://www.cosmicpython.com/book/preface.html>
+>
+> Explication et exemples Python DDD avec TDD, CQS etc
