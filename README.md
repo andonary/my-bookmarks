@@ -74,6 +74,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://udidahan.com/2009/06/29/dont-create-aggregate-roots/>
 
+> <https://shawnmc.cool/2015-01-08_the-repository-pattern>
+>
+> Repository pattern
+
 ## multi / divers
 
 > <https://www.cosmicpython.com/book/preface.html>
