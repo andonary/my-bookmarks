@@ -87,3 +87,15 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://www.cosmicpython.com/book/preface.html>
 >
 > Explication et exemples Python DDD avec TDD, CQS etc
+
+## livres (wishing list)
+
+> <https://www.oreilly.com/library/view/design-patterns-elements/0201633612/>
+>
+> GoF gang of four
+
+> <https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/>
+>
+> Refactoring 2eme édition avec update JS de Martin Fowler (et pas Flower)
+>
+> Résumé: <https://vinceops.me/refactoring-martin-fowler/>
