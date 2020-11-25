@@ -81,6 +81,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://culttt.com/2014/09/29/creating-domain-services/>
 >
 > Domain services (LU)
+>
 > Ok de déplacer des règles métiers dans Domain service mais par défaut ils ne doivent pas être dedans pour éviter les problèmes anémique. Voir :
 >
 > <https://www.martinfowler.com/bliki/AnemicDomainModel.html>
