@@ -68,6 +68,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 ## DDD
 
+> <https://www.domainlanguage.com/wp-content/uploads/2020/08/DDD-Reference-version-2015-03.pdf>
+>
+> PDF Eric Evans DDD Definitions
+
 > <https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/>
 >
 > Introduction des termes, bon point d'entré (LU)
