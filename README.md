@@ -90,6 +90,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > <https://www.martinfowler.com/bliki/AnemicDomainModel.html>
 
+> <https://khalilstemmler.com/articles/typescript-domain-driven-design/aggregate-design-persistence/>
+>
+> Exemples en typescript pour designer aggregates (LU)
+
 ## multi / divers
 
 > <https://www.cosmicpython.com/book/preface.html>
