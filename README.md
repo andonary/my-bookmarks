@@ -60,6 +60,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Outside In part 1
 
+> <https://nicolas-poste.medium.com/les-tests-oui-mais-pas-nimporte-comment-b9283dee9776>
+>
+> Double loop of tdd et un beau schéma 
+
 ## Tests Unitaires
 
 > <http://agileinaflash.blogspot.com/2009/02/first.html>
