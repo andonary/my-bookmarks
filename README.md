@@ -70,6 +70,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Un test doit être FIRST
 
+> <https://steemit.com/php/@crell/don-t-use-mocking-libraries>
+>
+> Ne pas utiliser les lib de mock (LU)
+
 ## DDD
 
 > <https://www.domainlanguage.com/wp-content/uploads/2020/08/DDD-Reference-version-2015-03.pdf>
