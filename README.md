@@ -31,6 +31,13 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > Intro + exemples (LU mais à relire)
 
 > <https://udidahan.com/2009/12/09/clarified-cqrs/>
+> 
+>
+
+> <https://www.youtube.com/watch?v=S1V4t7SXXCU>
+> 
+>
+
 
 ## Design patterns
 
@@ -59,6 +66,11 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://www.youtube.com/watch?v=XHnuMjah6ps>
 >
 > Outside In part 1
+> 
+
+> <https://outsidein.dev/about-this-guide.html>
+> 
+> Outside In
 
 > <https://nicolas-poste.medium.com/les-tests-oui-mais-pas-nimporte-comment-b9283dee9776>
 >
@@ -107,6 +119,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://www.cosmicpython.com/book/preface.html>
 >
 > Explication et exemples Python DDD avec TDD, CQS etc
+> 
+
+> <https://www.youtube.com/watch?v=4v5Bf6qwAY8>
+> 
 
 ## livres (wishing list)
 
@@ -119,3 +135,12 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > Refactoring 2eme édition avec update JS de Martin Fowler (et pas Flower)
 >
 > Résumé: <https://vinceops.me/refactoring-martin-fowler/>
+> 
+
+## Autres lien
+
+> <https://wiki.lihf.dev>
+> 
+> <https://shaarli.lihf.dev>
+> >
+
