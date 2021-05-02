@@ -2,6 +2,12 @@
 
 Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
+# Law of Demeter
+
+> <https://dzone.com/articles/the-genius-of-the-law-of-demeter>
+> 
+> en plus des règles usuels de la POO, à appliquer (LU)
+
 ## Clean architecture
 
 ### SOLID
