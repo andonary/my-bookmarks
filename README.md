@@ -61,6 +61,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 ## TDD
 
+> <https://www.stevefenton.co.uk/2013/05/my-unit-testing-epiphany/amp/>
+> 
+> Pourquoi tout le monde se trompe en testant unitairement selon la définition de certains livres sur le TU
+
 > <http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html?m=1>
 
 > <https://www.youtube.com/watch?v=EZ05e7EMOLM>
