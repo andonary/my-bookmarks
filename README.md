@@ -102,6 +102,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 ## DDD
 
+> <https://vaadin.com/learn/tutorials/ddd/tactical_domain_driven_design>
+> 
+> Vu d'ensemble des pattterns DDD
+
 > <https://www.domainlanguage.com/wp-content/uploads/2020/08/DDD-Reference-version-2015-03.pdf>
 >
 > PDF Eric Evans DDD Definitions
