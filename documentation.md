@@ -40,3 +40,9 @@
 > <https://www.technical-communication.org/>
 > 
 > Formation/Etudes/Certification pour tech writer/documentarian
+
+### Other links
+
+> <https://www.coleywoyak.com>
+>
+> Portfolio de Coley
