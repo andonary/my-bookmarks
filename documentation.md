@@ -41,7 +41,13 @@
 > 
 > Formation/Etudes/Certification pour tech writer/documentarian
 
-### Other links
+## Examples
+
+> <https://docs.saagie.io/user/latest/index.html>
+>
+> Documentation écrite par Coley
+
+## Other links
 
 > <https://www.coleywoyak.com>
 >
