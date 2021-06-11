@@ -142,6 +142,11 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://www.youtube.com/watch?v=4v5Bf6qwAY8>
 > 
 
+> <https://latavernedutesteur.fr/2019/02/25/atdd-et-bdd-quelle-difference/>
+>
+> Différence entre BDD et ATDD du point de vue d'un testeur (LU)
+
+
 ## livres (wishing list)
 
 > <https://www.oreilly.com/library/view/design-patterns-elements/0201633612/>
