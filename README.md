@@ -42,7 +42,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://udidahan.com/2009/12/09/clarified-cqrs/>
 > 
->
+> (LU)
 
 > <https://www.youtube.com/watch?v=S1V4t7SXXCU>
 > 
