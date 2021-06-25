@@ -146,6 +146,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Différence entre BDD et ATDD du point de vue d'un testeur (LU)
 
+> <https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx>
+>
+> Pourquoi se méfier de l'utilisation des ORM
+
 
 ## livres (wishing list)
 
