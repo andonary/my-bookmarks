@@ -148,7 +148,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://blog.sapiensworks.com/post/2012/04/07/Just-Stop-It!-The-Domain-Model-Is-Not-The-Persistence-Model.aspx>
 >
-> Pourquoi se méfier de l'utilisation des ORM
+> Pourquoi se méfier de l'utilisation des ORM, lire aussi les commentaires et les réponses de Mike
 
 
 ## livres (wishing list)
