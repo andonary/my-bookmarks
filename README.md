@@ -150,6 +150,16 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Pourquoi se méfier de l'utilisation des ORM, lire aussi les commentaires et les réponses de Mike
 
+## Typescript
+
+> <https://exploringjs.com/tackling-ts/toc.html>
+>
+> Just basics
+
+> <https://basarat.gitbook.io/typescript/getting-started>
+>
+> A few more details
+
 
 ## livres (wishing list)
 
