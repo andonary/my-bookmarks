@@ -90,6 +90,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Double loop of tdd et un beau schéma 
 
+> <https://tddmanifesto.com/a-clean-test/>
+>
+> How to write a clean test
+
 ## Tests Unitaires
 
 > <http://agileinaflash.blogspot.com/2009/02/first.html>
