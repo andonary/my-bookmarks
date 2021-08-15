@@ -136,6 +136,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Exemples en typescript pour designer aggregates (LU)
 
+> <medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a>
+>
+> article qui présente bien les concepts ddd (LU)
+
 ## multi / divers
 
 > <https://www.cosmicpython.com/book/preface.html>
