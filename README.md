@@ -144,6 +144,12 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > article qui présente bien les concepts ddd (LU)
 
+## Four Rules of simple design
+
+> <https://martinfowler.com/bliki/BeckDesignRules.html>
+>
+> Les 4 règles de Kent Beck (LU)
+
 ## multi / divers
 
 > <https://www.cosmicpython.com/book/preface.html>
