@@ -63,15 +63,13 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://www.stevefenton.co.uk/2013/05/my-unit-testing-epiphany/amp/>
 > 
-> Pourquoi tout le monde se trompe en testant unitairement selon la définition de certains livres sur le TU
+> Pourquoi tout le monde se trompe en testant unitairement selon la définition de certains livres sur le TU. Voir également la conférence de Ian Cooper en complément
 
 > <http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html?m=1>
 
 > <https://www.youtube.com/watch?v=EZ05e7EMOLM>
 
 > <https://robdmoore.id.au/blog/2015/01/26/review-of-ian-cooper-tdd-where-did-it-all-go-wrong>
-
-> <https://www.stevefenton.co.uk/2013/05/my-unit-testing-epiphany>
 
 > <https://www.linkedin.com/pulse/tdd-la-méthode-qui-promet-des-logiciels-de-meilleur-lenselle/>
 
@@ -97,6 +95,9 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design?utm_source=pocket_mylist>
 >
 > Classicist vs Mockist (LU)
+
+> <https://medium.com/spotlight-on-javascript/real-world-node-js-tdd-example-4f877a46e1f1>
+> 
 
 ## Tests Unitaires
 
