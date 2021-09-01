@@ -94,6 +94,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > How to write a clean test
 
+> <https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design?utm_source=pocket_mylist>
+>
+> Outside In VS Inside Out (LU)
+
 ## Tests Unitaires
 
 > <http://agileinaflash.blogspot.com/2009/02/first.html>
