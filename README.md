@@ -96,6 +96,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Classicist vs Mockist (LU)
 
+> <https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html>
+>
+> Classicist vs Mockist avec très bon exemples en java
+
 > <https://medium.com/spotlight-on-javascript/real-world-node-js-tdd-example-4f877a46e1f1>
 > 
 
