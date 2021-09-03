@@ -16,8 +16,8 @@
 >
 > Expliquer simplement ce qu'est l'impedance mismatch induite par la (mauvaise) utilisation d'ORM
 
-# Un test unitaire = une méthode ?
+# Inside-Out ? Outside-In ? Kézako ?
 
-> <https://blog.cleancoder.com/uncle-bob/2014/01/27/TheChickenOrTheRoad.html>
->
-> Expliquer pourquoi les tests unitaires qu'écrivent la majorité de ceux qui en écrivent ne sont pas correct
+> <https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design?utm_source=pocket_mylist>
+> 
+> <https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html>
