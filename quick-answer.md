@@ -21,3 +21,7 @@
 > <https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design?utm_source=pocket_mylist>
 > 
 > <https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html>
+
+# Clean architecture expliqué simplement (exemple front)
+
+> <https://dev.to/bespoyasov/clean-architecture-on-frontend-4311>
