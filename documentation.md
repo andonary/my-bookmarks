@@ -1,3 +1,10 @@
+# Roadman craftsmanship
+
+> <https://github.com/Thialala/software-engineering-learning-guide?utm_source=pocket_mylist>
+>
+> liste des resourcces à consulter
+
+
 # Docs-as-code
 
 > <https://www.codeursenseine.com/meetups/events/docs-as-a-code>
