@@ -7,6 +7,8 @@
 > <https://isamatov.com/node-module-wiring-dependencies/>
 >
 > Montrer en js ce qu'est la DI
+>
+> Et la version DIC (container) : <https://levelup.gitconnected.com/node-js-advanced-pattern-dependency-injection-container-fc58a1946638>
 
 # BDD = ATDD ?
 
