@@ -4,6 +4,10 @@
 > 
 > Expliquer ce qu'est la dependency injection simplement
 
+> <https://isamatov.com/node-module-wiring-dependencies/>
+>
+> Montrer en js ce qu'est la DI
+
 # BDD = ATDD ?
 
 > <https://latavernedutesteur.fr/2019/02/25/atdd-et-bdd-quelle-difference/>
