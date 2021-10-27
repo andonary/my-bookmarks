@@ -12,3 +12,6 @@
 > <https://roadmap.sh>
 >
 > <https://github.com/kamranahmedse/developer-roadmap>
+
+> <https://github.com/stemmlerjs/software-design-and-architecture-roadmap>
+> 
