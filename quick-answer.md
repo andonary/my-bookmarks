@@ -22,6 +22,12 @@
 >
 > Expliquer simplement ce qu'est l'impedance mismatch induite par la (mauvaise) utilisation d'ORM
 
+# Eventual Consistency - Saga
+
+> <https://blog.sapiensworks.com/post/2013/04/30/Message-Driven-Architecture-Explained-Eventual-Consistency-and-Saga.aspx>
+>
+> Exemple simple de ce qu'est l'eventual consistency et les saga
+
 # Inside-Out ? Outside-In ? Kézako ?
 
 > <https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design?utm_source=pocket_mylist>
