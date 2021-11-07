@@ -204,3 +204,4 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <https://shaarli.lihf.dev>
 > >
 
+> <https://github.com/pat-och/Craftsmanship-Software-Resources?utm_source=pocket_mylist>
