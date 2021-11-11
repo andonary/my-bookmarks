@@ -187,6 +187,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > A few more details
 
+## FP
+
+> <blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them>
+
 
 ## livres (wishing list)
 
