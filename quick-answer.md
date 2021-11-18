@@ -16,6 +16,12 @@
 >
 > Expliquer que BDD et ATDD ne sont pas vraiment identique
 
+# TDD
+
+> <https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989>
+>
+> Quelques vérités blessantes sur TDD
+
 # Impedance mismatch - ORM with DDD
 
 > <https://stackoverflow.com/questions/23115988/what-is-impedance-mismatch/23116254>
