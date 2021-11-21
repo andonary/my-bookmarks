@@ -205,6 +205,12 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > Résumé: <https://vinceops.me/refactoring-martin-fowler/>
 > 
 
+## Agilité
+
+> <https://www.youtube.com/watch?v=sZbmP0JZHBs>
+>
+> Conférence magique (2019)
+
 ## Autres lien
 
 > <https://wiki.lihf.dev>
