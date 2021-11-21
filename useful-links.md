@@ -22,6 +22,10 @@
 > <https://github.com/donnemartin/system-design-primer>
 > 
 
+
+> <https://java-design-patterns.com>
+> 
+
 # API
 
 > <https://github.com/inonshk/31-days-of-API-Security-Tips?utm_source=pocket_mylist>
