@@ -209,7 +209,7 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://www.youtube.com/watch?v=sZbmP0JZHBs>
 >
-> Conférence magique (2019)
+> Conférence magique (2019, toujours vraie aujourd'hui)
 
 ## Autres lien
 
