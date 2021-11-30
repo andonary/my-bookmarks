@@ -43,3 +43,7 @@
 # Clean architecture expliqué simplement (exemple front)
 
 > <https://dev.to/bespoyasov/clean-architecture-on-frontend-4311>
+
+# Aggregates ?
+
+> <https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/>
