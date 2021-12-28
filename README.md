@@ -68,10 +68,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 > <http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html?m=1>
 
 > <https://www.youtube.com/watch?v=EZ05e7EMOLM>
+>
+> Ian Cooper - TDD, Where Did It All Go Wrong
 
 > <https://robdmoore.id.au/blog/2015/01/26/review-of-ian-cooper-tdd-where-did-it-all-go-wrong>
-
-> <https://www.linkedin.com/pulse/tdd-la-méthode-qui-promet-des-logiciels-de-meilleur-lenselle/>
 
 > <https://medium.com/spotlight-on-javascript/real-world-node-js-tdd-example-4f877a46e1f1>
 
