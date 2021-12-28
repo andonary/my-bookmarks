@@ -16,9 +16,6 @@
 > <https://github.com/stemmlerjs/software-design-and-architecture-roadmap>
 > 
 
-> <https://github.com/AlaaAttya/software-architect-roadmap>
-> 
-
 > <https://github.com/donnemartin/system-design-primer>
 > 
 
