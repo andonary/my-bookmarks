@@ -109,10 +109,6 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 ## Tests Unitaires
 
-> <http://agileinaflash.blogspot.com/2009/02/first.html>
->
-> Un test doit être FIRST
-
 > <https://steemit.com/php/@crell/don-t-use-mocking-libraries>
 >
 > Ne pas utiliser les lib de mock (LU)
