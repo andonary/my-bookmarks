@@ -2,10 +2,6 @@
 
 Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
-## Study path
-
-> <https://github.com/joebew42/study-path>
-
 ## Law of Demeter
 
 > <https://dzone.com/articles/the-genius-of-the-law-of-demeter>
