@@ -203,6 +203,10 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 >
 > Conférence magique (2019, toujours vraie aujourd'hui)
 
+## Spécifique à Node
+
+> <https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/>
+
 ## Autres lien
 
 > <https://wiki.lihf.dev>
