@@ -14,6 +14,12 @@ Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
 > <https://github.com/VincentJouanne/nest-clean-architecture-ddd-example>
 
+### Conférences / talks
+
+> <www.youtube.com/watch?v=rSO1y3lCBfk>
+>
+> Meetic et l'architecture hexagonale
+
 ### SOLID
 
 > <https://medium.com/@mari_azevedo/s-o-l-i-d-principles-what-are-they-and-why-projects-should-use-them-50b85e4aa8b6>
