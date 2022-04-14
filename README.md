@@ -2,6 +2,9 @@
 
 Mon annuaire d'article très intéressant à lire et à relire puis à appliquer
 
+https://www.youtube.com/watch?v=AJ7u_Z-TS-A
+
+
 ## Law of Demeter
 
 > <https://dzone.com/articles/the-genius-of-the-law-of-demeter>
